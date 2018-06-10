@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "email-validator": "^2.0.4",
+    "firebase": "^5.0.4",
     "history": "^4.7.2",
+    "immutable": "^3.8.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-redux": "^5.0.7",

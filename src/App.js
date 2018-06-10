@@ -3,7 +3,8 @@ import Root from './components/Root.js'
 import store from './redux';
 import {Provider} from 'react-redux';
 import {ConnectedRouter} from 'react-router-redux';
-import history from './history.js'
+import history from './history.js';
+import './config.js'
 
 class App extends Component {
     render() {
