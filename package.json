@@ -15,6 +15,7 @@
     "react-router-redux": "^5.0.0-alpha.9",
     "react-scripts": "1.1.4",
     "react-test-render": "^1.1.1",
+    "react-virtualized": "^9.20.0",
     "redux": "^4.0.0",
     "redux-form": "^7.3.0",
     "redux-logger": "^3.0.6",
