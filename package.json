@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "email-validator": "^2.0.4",
+    "enzyme": "^3.3.0",
     "firebase": "^5.0.4",
     "history": "^4.7.2",
     "immutable": "^3.8.2",
@@ -13,6 +14,7 @@
     "react-router-dom": "^4.2.2",
     "react-router-redux": "^5.0.0-alpha.9",
     "react-scripts": "1.1.4",
+    "react-test-render": "^1.1.1",
     "redux": "^4.0.0",
     "redux-form": "^7.3.0",
     "redux-logger": "^3.0.6",
